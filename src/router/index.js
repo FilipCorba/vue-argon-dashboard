@@ -12,10 +12,10 @@ const routes = [
   {
     path: "/",
     name: "/",
-    redirect: "/dashboard-default",
+    redirect: "/dashboard",
   },
   {
-    path: "/dashboard-default",
+    path: "/dashboard",
     name: "Dashboard",
     component: Dashboard,
   },
@@ -53,6 +53,11 @@ const routes = [
     path: "/signup",
     name: "Signup",
     component: Signup,
+  },
+  {
+    path: "/signout",
+    name: "Signout",
+    component: Signin,
   },
 ];
 

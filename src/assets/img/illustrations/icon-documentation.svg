@@ -11,13 +11,13 @@
             <stop stop-color="#5760D5" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="6.16024702%" y1="4.9350486%" x2="91.178684%" y2="95.0649514%" id="linearGradient-3">
-            <stop stop-color="#2DCECC" offset="0%"></stop>
-            <stop stop-color="#2DCE89" offset="100%"></stop>
+            <stop stop-color="#332c69" offset="15%"></stop>
+            <stop stop-color="#df248c" offset="100%"></stop>
         </linearGradient>
         <path d="M79,11.5242266 L79,72.1391782 C79,73.7222572 77.668841,75.0000492 76.025481,75.0000492 L2.9821801,75.0000492 C1.3388207,75.0000492 0,73.7222572 0,72.1391782 L0,2.86961082 C0,1.28653132 1.3407361,-7.10542736e-15 2.9821801,-7.10542736e-15 L19.3908743,-7.10542736e-15 C20.4110299,-0.00578327957 21.3646324,0.50706742 21.9239078,1.36237322 L25.7076565,7.28572092 C26.2634202,8.14534332 27.2188655,8.66063342 28.24069,8.65183502 L76.028354,8.65183502 C77.668841,8.65855512 79,9.94114712 79,11.5242266 Z" id="path-4"></path>
         <linearGradient x1="6.16024702%" y1="27.2920605%" x2="91.178684%" y2="72.7079395%" id="linearGradient-5">
-            <stop stop-color="#2DCECC" offset="0%"></stop>
-            <stop stop-color="#2DCE89" offset="100%"></stop>
+            <stop stop-color="#332c69" offset="15%"></stop>
+            <stop stop-color="#df248c" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="icon-documentation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">

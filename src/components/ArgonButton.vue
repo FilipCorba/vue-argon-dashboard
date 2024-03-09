@@ -41,11 +41,15 @@ const getClasses = (variant, color, size, fullWidth, active) => {
 
   return `${colorValue} ${sizeValue} ${fullWidthValue} ${activeValue}`;
 };
+const handleClick = () => {
+  console.log("Button clicked");
+};
 </script>
 <template>
   <button
     class="btn mb-0"
     :class="getClasses(variant, color, size, fullWidth, active)"
+     @click="handleClick"
   >
     <slot />
   </button>
